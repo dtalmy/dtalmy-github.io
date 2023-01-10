@@ -7,7 +7,6 @@ permalink:        pretty
 
 # Setup
 description:      Quantitative virus ecology course material
-baseurl:          /
 
 github:
   repo:           https://github.com/dtalmy/dtalmy.github.io
