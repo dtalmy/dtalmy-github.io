@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Module 3
-order: 2
+order: 3
 ---
 
 ### Important links
