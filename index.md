@@ -17,5 +17,4 @@ Here is a description of the course
 - [Module 1](/module1/)
 - [Module 2](/module2/)
 
-### Office Hours (Spring 2023)
 
