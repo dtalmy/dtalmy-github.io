@@ -5,7 +5,7 @@ title: Course overview
 order: 1
 ---
 
-Course overview
+Here is a description of the course
 
 ### Contact details
 
