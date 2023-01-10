@@ -1,7 +1,8 @@
 ---
+permalink: "/module2.html"
 layout: page
 title: Module 2
-order: 1
+order: 2
 ---
 
 ### Important links
