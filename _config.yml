@@ -11,6 +11,7 @@ description:      Quantitative virus ecology course material
 github:
   repo:           https://github.com/dtalmy/dtalmy.github.io
 
+baseurl:          /
 paginate:         5
 
 paginate_path:       "page:num"
