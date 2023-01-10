@@ -1,4 +1,5 @@
 ---
+permalink: "/module3.html"
 layout: page
 title: Module 3
 order: 3
