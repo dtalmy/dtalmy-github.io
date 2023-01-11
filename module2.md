@@ -1,7 +1,7 @@
 ---
 permalink: "/module2.html"
 layout: page
-title: Module 2
+title: Module 2 (Python for All)
 order: 2
 ---
 
